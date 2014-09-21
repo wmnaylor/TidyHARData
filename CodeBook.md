@@ -16,7 +16,7 @@ Contains a factor with 30 levels sequentially numbered 1:30
 
 This label corresponds to the 30 individuals who participated in the study
 
-All other columns are generated observations from a Samsung Galaxy S2's gyroscope and accelerometer.
+**All other columns** are generated observations from a subjects Samsung Galaxy S2's gyroscope and accelerometer while performing the activity indicated.
 The units of measurement for all observations made by the accelerometer are standard gravity units 'g'.
 All gyroscopic readings are an angular velocity measured in radians/second.
 
