@@ -2,11 +2,13 @@
 ===========
 
 ##Running The Analysis
-In order to run the script: run_analysis.R you will need to make sure the following packages are installed in your version of R
+In order to run the script: run_analysis.R you will need to make sure the following packages are installed in your version of R.
+
 1. data.table
 2. reshape2
 
-You will also need to 
+You will also need to:
+
 1. Download and unzip the dataset into your R working directory. You can download the dataset at the following address: https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip 
 2. Place run_analysis.R in your working directory
 
